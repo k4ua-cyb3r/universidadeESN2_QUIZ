@@ -40,6 +40,4 @@ Criar um sistema simples de perguntas e respostas (Tema Livre) que:
 - Utilizar boas práticas de codificação: indentação, nomes claros e comentários.
 
 ## 🧪 Exemplo de Execução
----
 
-## 🧪 Exemp
